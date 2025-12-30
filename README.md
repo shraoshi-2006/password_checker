@@ -21,11 +21,11 @@ A modern and interactive **Password Strength Checker** built with **HTML, CSS, a
 
 password-checker/
 │
-├─ index.html        # Main HTML file
-├─ style.css         # CSS for styling
-├─ script.js         # JavaScript logic
-├─ vercel.json       # Vercel deployment configuration
-├─ LICENSE           # MIT License file
+-├─ index.html        # Main HTML file
+-├─ style.css         # CSS for styling
+-├─ script.js         # JavaScript logic
+-├─ vercel.json       # Vercel deployment configuration
+-├─ LICENSE           # MIT License file
 
 ---
 
