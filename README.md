@@ -32,5 +32,5 @@ password-checker/
 
 ## 💻 Live Demo
 
-Try it live here: [![Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-ff3e00.svg)](https://your-vercel-url.vercel.app)  
+Try it live here: (https://password-checker-delta-three.vercel.app/)
 
